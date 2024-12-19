@@ -1,4 +1,3 @@
-SandraCutz 
 A professional home barbing and styling service website.
 
 About the Project
